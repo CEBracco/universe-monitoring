@@ -21,7 +21,7 @@
     "lodash": "^4.17.11",
     "log4js": "^3.0.6",
     "node-cron": "^2.0.3",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "unirest": "^0.5.1",
     "url-exists-deep": "^1.1.1",
     "websocket": "^1.0.28"
